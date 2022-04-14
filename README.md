@@ -1,2 +1,2 @@
 # Space-Invaders
-Space Invaders Jogo de Resgate feito na aula Construindo o seu primeiro jogo de naves com HTML, CSS e Javascript  link para o jogo online: https://gustavosantos.xyz/spaceinvaders/
+Space Invaders Jogo de naves feito na aula Criando seu jogo no estilo Space Shooter com HTML, CSS e Javascript  link para o jogo online: https://gustavosantos.xyz/spaceinvaders/
